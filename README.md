@@ -1,1 +1,2 @@
-My first readme.md
+updated
+Hi my name is thembekile
