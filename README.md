@@ -1,2 +1,1 @@
-updated
-Hi my name is thembekile
+UPDATED README.md
